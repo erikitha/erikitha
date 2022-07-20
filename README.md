@@ -42,11 +42,11 @@
   <a href="https://www.linkedin.com/in/erica-hery-park/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kayque | Linkedin"/>
   </a>
-</div>
 
+</div>
+  ![Snake animation](https://github.com/erikitha/erikitha/blob/output/github-contribution-grid-snake.svg)
 <br /> 
 <br /> 
 
-<div> 
 
-</div>
+
