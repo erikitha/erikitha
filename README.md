@@ -27,9 +27,26 @@
 </p>
 
 <br /> 
+<br /> 
+
+<div align="center"> 
+ <a href="https://github.com/erikitha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikitha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikitha&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br /> 
+<br /> 
+
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Follow Me</h1>
 <div align="center" style="display: flex; gap:10px;">
   <a href="https://www.linkedin.com/in/erica-hery-park/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kayque | Linkedin"/>
   </a>
+</div>
+
+<br /> 
+<br /> 
+
+<div> 
+
 </div>
